@@ -13,6 +13,9 @@ English | [中文](README.zh-CN.md)
 - **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
 - **[Zed](https://zed.dev/)**, High-performance Rust-based editor with integrated AI features at 120fps
 - **[通义灵码](https://lingma.aliyun.com/)**, Alibaba's AI coding assistant with IDE plugins and standalone IDE
+- **[Augment Code](https://www.augmentcode.com/)**, Professional AI platform for large-scale enterprise codebases with 200K context tokens
+- **[CodeFuse](https://codefuse.alipay.com/welcome/product)**, Ant Group's open-source AI platform supporting full development lifecycle
+- **[Comate](https://comate.baidu.com/en)**, Baidu's AI assistant supporting 100+ languages with 50% code adoption rate
 
 ## Terminal-Based AI Agents
 
@@ -41,9 +44,6 @@ English | [中文](README.zh-CN.md)
 
 ## Enterprise & Platform Solutions
 
-- **[Augment Code](https://www.augmentcode.com/)**, Professional AI platform for large-scale enterprise codebases with 200K context tokens
-- **[CodeFuse](https://codefuse.alipay.com/welcome/product)**, Ant Group's open-source AI platform supporting full development lifecycle
-- **[Comate](https://comate.baidu.com/en)**, Baidu's AI assistant supporting 100+ languages with 50% code adoption rate
 - **[Codex](https://openai.com/codex/)**, OpenAI's AI coding model series with cloud-based agents and CLI tools
 - **[Devin](https://cognition.ai/)**, Cognition Labs' autonomous AI software engineer for complex development tasks
 
