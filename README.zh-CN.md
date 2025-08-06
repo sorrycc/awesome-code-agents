@@ -41,6 +41,7 @@
 - **[v0](https://v0.dev/)**，Vercel 的 AI UI 生成器，将描述转换为使用 shadcn/ui 的 React 代码
 - **[Bolt.new](https://bolt.new/)**，StackBlitz 的浏览器全栈 AI 开发平台，采用 WebContainers 技术
 - **[Lovable](https://lovable.dev/)**，无代码 AI 应用构建器，通过自然语言生成全栈 Web 应用
+- **[Replit](https://replit.com/)**，AI 驱动的浏览器 IDE，具备 Agent 功能可通过自然语言描述构建应用
 
 ## 企业和平台解决方案
 
