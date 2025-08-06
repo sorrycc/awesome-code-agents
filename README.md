@@ -4,27 +4,27 @@ A curated list of AI-powered code agents, IDEs, and development tools that enhan
 
 ## AI-Enhanced IDEs & Editors
 
-- **[CodeBuddy](https://www.codebuddy.com/)**, AI coding tools including VS Code extensions and development platforms
 - **[Cursor](https://cursor.com/)**, AI-powered VS Code fork with intelligent autocomplete and agentic editing
-- **[Kiro](https://kiro.dev/)**, AWS experimental agentic IDE using spec-driven development
-- **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
 - **[Windsurf](https://windsurf.com/)**, AI-powered IDE from Codeium with "Cascade Flow" AI agents
+- **[Kiro](https://kiro.dev/)**, AWS experimental agentic IDE using spec-driven development
+- **[CodeBuddy](https://www.codebuddy.com/)**, AI coding tools including VS Code extensions and development platforms
+- **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
 - **[Zed](https://zed.dev/)**, High-performance Rust-based editor with integrated AI features at 120fps
 - **[通义灵码](https://lingma.aliyun.com/)**, Alibaba's AI coding assistant with IDE plugins and standalone IDE
 
 ## Terminal-Based AI Agents
 
 - **[Claude Code](https://www.anthropic.com/claude-code)**, Anthropic's terminal-native AI coding tool with deep codebase understanding
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**, Google's terminal AI agent with 1M token context and multimodal capabilities
 - **[Aider](https://aider.chat/)**, Terminal-based AI pair programmer with git integration and top SWE-bench performance
 - **[Goose](https://block.github.io/goose/)**, Block's extensible open-source AI agent for autonomous coding tasks
 - **[OpenCode](https://opencode.ai/)**, Terminal-native AI agent with LSP integration and 75+ LLM support
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**, Google's terminal AI agent with 1M token context and multimodal capabilities
 - **[Warp](https://www.warp.dev/)**, AI-enhanced terminal with natural language command processing
 
 ## VS Code Extensions
 
-- **[Continue](https://www.continue.dev/)**, Open-source AI assistant for VS Code/JetBrains with custom model integration
 - **[Cline](https://cline.bot/)**, Autonomous AI agent for VS Code with file editing and web browsing capabilities
+- **[Continue](https://www.continue.dev/)**, Open-source AI assistant for VS Code/JetBrains with custom model integration
 - **[RooCode](https://roocode.com/)**, VS Code extension with AI agent teams for autonomous coding and automation
 - **[CoolCline](https://github.com/coolcline/coolcline)**, Enhanced Cline fork with CLI integration and workflow automation
 - **[KiloCode](https://kilocode.ai/)**, AI assistant superset of Roo/Cline with Orchestrator Mode and error recovery

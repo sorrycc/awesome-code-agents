@@ -15,4 +15,4 @@ When adding a new code agent to the README.md, follow these steps:
 3. Add the entry using the format: `- **[{{name}}]({{link}})**, {{short description}}`
 4. Keep descriptions concise (under 15 words) and focus on the main functionality
 5. Ensure the link points to the official website or main repository
-6. Maintain alphabetical order within each category when possible
+6. **Add new entries to the end of the appropriate category** (do not maintain alphabetical order - new ones should be added last)
