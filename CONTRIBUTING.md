@@ -27,6 +27,7 @@ When contributing to the Chinese version (README.zh-CN.md):
 - Use proper Chinese technical terminology
 - Keep the same concise style as English descriptions
 - Use Chinese punctuation (，。) instead of English punctuation
+- **Follow 盘古之白 formatting**: Add spaces between Chinese and English/numbers (e.g., "AI 代码编辑器", "支持 100+ 种语言", "VS Code 扩展")
 - Maintain consistency with existing Chinese translations
 - Both English and Chinese versions should be updated simultaneously
 

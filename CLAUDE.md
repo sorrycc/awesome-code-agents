@@ -26,3 +26,4 @@ When adding Chinese descriptions:
 - Keep the same concise style as English descriptions
 - Use Chinese punctuation (，。) instead of English punctuation
 - Maintain the same link format but with Chinese description
+- **Follow 盘古之白 formatting**: Add spaces between Chinese and English/numbers (e.g., "AI 代码编辑器", "支持 100+ 种语言", "VS Code 扩展")
