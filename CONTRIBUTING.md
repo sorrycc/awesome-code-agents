@@ -8,16 +8,27 @@ Thank you for your interest in contributing to this curated list of AI-powered c
 
 1. **Research the tool** to gather accurate information about its features and official website/repository
 2. **Determine the appropriate category** for the tool:
-   - AI-Enhanced IDEs & Editors
-   - Terminal-Based AI Agents  
-   - VS Code Extensions
-   - Web-Based Development Platforms
-   - Enterprise & Platform Solutions
-   - Specialized Tools
-3. **Add the entry** using the format: `- **[{{name}}]({{link}})**, {{short description}}`
+   - AI-Enhanced IDEs & Editors / AI增强型IDE和编辑器
+   - Terminal-Based AI Agents / 终端AI智能体
+   - VS Code Extensions / VS Code扩展
+   - Web-Based Development Platforms / 基于Web的开发平台
+   - Enterprise & Platform Solutions / 企业和平台解决方案
+   - Specialized Tools / 专用工具
+3. **Add the entry to both files** using the format:
+   - English (README.md): `- **[{{name}}]({{link}})**, {{short description}}`
+   - Chinese (README.zh-CN.md): `- **[{{name}}]({{link}})**，{{Chinese short description}}`
 4. **Keep descriptions concise** (under 15 words) and focus on the main functionality
 5. **Ensure the link** points to the official website or main repository
-6. **Add new entries to the end** of the appropriate category (do not maintain alphabetical order)
+6. **Add new entries to the end** of the appropriate category in both files (do not maintain alphabetical order)
+
+### Chinese Translation Guidelines
+
+When contributing to the Chinese version (README.zh-CN.md):
+- Use proper Chinese technical terminology
+- Keep the same concise style as English descriptions
+- Use Chinese punctuation (，。) instead of English punctuation
+- Maintain consistency with existing Chinese translations
+- Both English and Chinese versions should be updated simultaneously
 
 ### Submission Guidelines
 
@@ -36,7 +47,9 @@ You can use Claude Code to help add new code agents efficiently:
 3. **Category placement**: Claude Code can determine the most appropriate category and add the entry to the end of that section
 4. **Description optimization**: Ask Claude Code to create a concise description under 15 words that captures the tool's main functionality
 
-Example command: `Add [tool name] to the README.md under the appropriate category with a short description`
+Example commands: 
+- `Add [tool name] to both README.md and README.zh-CN.md under the appropriate category with descriptions`
+- `Add [tool name] to the README files with English and Chinese descriptions`
 
 ### Pull Request Process
 

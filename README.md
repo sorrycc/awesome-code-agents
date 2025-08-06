@@ -2,6 +2,8 @@
 
 A curated list of AI-powered code agents, IDEs, and development tools that enhance programming productivity through artificial intelligence.
 
+English | [中文](README.zh-CN.md)
+
 ## AI-Enhanced IDEs & Editors
 
 - **[Cursor](https://cursor.com/)**, AI-powered VS Code fork with intelligent autocomplete and agentic editing
