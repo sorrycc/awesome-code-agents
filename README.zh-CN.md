@@ -24,6 +24,7 @@
 - **[Goose](https://block.github.io/goose/)**，Block推出的可扩展开源AI智能体，用于自主编程任务
 - **[OpenCode](https://opencode.ai/)**，终端AI智能体，支持LSP集成和75+种LLM
 - **[Warp](https://www.warp.dev/)**，AI增强终端，支持自然语言命令处理
+- **[Codex](https://github.com/openai/codex)**，在终端中运行的轻量级编程智能体
 
 ## VS Code扩展
 

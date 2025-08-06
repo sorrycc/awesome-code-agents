@@ -24,6 +24,7 @@ English | [中文](README.zh-CN.md)
 - **[Goose](https://block.github.io/goose/)**, Block's extensible open-source AI agent for autonomous coding tasks
 - **[OpenCode](https://opencode.ai/)**, Terminal-native AI agent with LSP integration and 75+ LLM support
 - **[Warp](https://www.warp.dev/)**, AI-enhanced terminal with natural language command processing
+- **[Codex](https://github.com/openai/codex)**, Lightweight coding agent that runs in your terminal
 
 ## VS Code Extensions
 
