@@ -4,11 +4,12 @@ A curated list of AI-powered code agents, IDEs, and development tools that enhan
 
 ## AI-Enhanced IDEs & Editors
 
+- **[CodeBuddy](https://www.codebuddy.com/)**, AI coding tools including VS Code extensions and development platforms
 - **[Cursor](https://cursor.com/)**, AI-powered VS Code fork with intelligent autocomplete and agentic editing
+- **[Kiro](https://kiro.dev/)**, AWS experimental agentic IDE using spec-driven development
+- **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
 - **[Windsurf](https://windsurf.com/)**, AI-powered IDE from Codeium with "Cascade Flow" AI agents
 - **[Zed](https://zed.dev/)**, High-performance Rust-based editor with integrated AI features at 120fps
-- **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
-- **[Kiro](https://kiro.dev/)**, AWS experimental agentic IDE using spec-driven development
 - **[通义灵码](https://lingma.aliyun.com/)**, Alibaba's AI coding assistant with IDE plugins and standalone IDE
 
 ## Terminal-Based AI Agents
@@ -46,5 +47,4 @@ A curated list of AI-powered code agents, IDEs, and development tools that enhan
 
 ## Specialized Tools
 
-- **[CodeBuddy](https://www.codebuddy.com/)**, AI coding tools including VS Code extensions and development platforms
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
