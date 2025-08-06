@@ -25,6 +25,7 @@ English | [中文](README.zh-CN.md)
 - **[OpenCode](https://opencode.ai/)**, Terminal-native AI agent with LSP integration and 75+ LLM support
 - **[Warp](https://www.warp.dev/)**, AI-enhanced terminal with natural language command processing
 - **[Codex](https://github.com/openai/codex)**, Lightweight coding agent that runs in your terminal
+- **[Crush](https://github.com/charmbracelet/crush)**, AI-powered terminal coding agent with multi-model support and LSP integration
 
 ## VS Code Extensions
 
@@ -42,6 +43,7 @@ English | [中文](README.zh-CN.md)
 - **[Bolt.new](https://bolt.new/)**, StackBlitz's browser-based full-stack AI development platform with WebContainers
 - **[Lovable](https://lovable.dev/)**, No-code AI app builder generating full-stack web apps from natural language
 - **[Replit](https://replit.com/)**, AI-powered browser IDE with Agent for building apps from natural language descriptions
+- **[Jules](https://jules.google/)**, Google's AI-powered development assistant that automates repetitive coding tasks and generates pull requests
 
 ## Enterprise & Platform Solutions
 

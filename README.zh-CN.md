@@ -25,6 +25,7 @@
 - **[OpenCode](https://opencode.ai/)**，终端 AI 智能体，支持 LSP 集成和 75+ 种 LLM
 - **[Warp](https://www.warp.dev/)**，AI 增强终端，支持自然语言命令处理
 - **[Codex](https://github.com/openai/codex)**，在终端中运行的轻量级编程智能体
+- **[Crush](https://github.com/charmbracelet/crush)**，AI 驱动的终端编程智能体，支持多模型和 LSP 集成
 
 ## VS Code 扩展
 
@@ -42,6 +43,7 @@
 - **[Bolt.new](https://bolt.new/)**，StackBlitz 的浏览器全栈 AI 开发平台，采用 WebContainers 技术
 - **[Lovable](https://lovable.dev/)**，无代码 AI 应用构建器，通过自然语言生成全栈 Web 应用
 - **[Replit](https://replit.com/)**，AI 驱动的浏览器 IDE，具备 Agent 功能可通过自然语言描述构建应用
+- **[Jules](https://jules.google/)**，谷歌 AI 开发助手，自动化重复编程任务并生成拉取请求
 
 ## 企业和平台解决方案
 
