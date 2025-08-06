@@ -14,7 +14,6 @@
 - **[Zed](https://zed.dev/)**，基于Rust的高性能编辑器，集成AI功能，支持120fps
 - **[通义灵码](https://lingma.aliyun.com/)**，阿里巴巴的AI编程助手，提供IDE插件和独立IDE
 - **[Augment Code](https://www.augmentcode.com/)**，面向大型企业代码库的专业AI平台，支持20万令牌上下文
-- **[CodeFuse](https://codefuse.alipay.com/welcome/product)**，蚂蚁集团的开源AI平台，支持完整开发生命周期
 - **[Comate](https://comate.baidu.com/en)**，百度AI助手，支持100+种语言，代码采纳率达50%
 
 ## 终端AI智能体
