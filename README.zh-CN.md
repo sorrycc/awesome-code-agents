@@ -26,7 +26,6 @@
 - **[Warp](https://www.warp.dev/)**，AI 增强终端，支持自然语言命令处理
 - **[Codex](https://github.com/openai/codex)**，在终端中运行的轻量级编程智能体
 - **[Crush](https://github.com/charmbracelet/crush)**，AI 驱动的终端编程智能体，支持多模型和 LSP 集成
-
 ## VS Code 扩展
 
 - **[Cline](https://cline.bot/)**，VS Code 自主 AI 智能体，具备文件编辑和网页浏览功能
@@ -42,13 +41,14 @@
 - **[v0](https://v0.dev/)**，Vercel 的 AI UI 生成器，将描述转换为使用 shadcn/ui 的 React 代码
 - **[Bolt.new](https://bolt.new/)**，StackBlitz 的浏览器全栈 AI 开发平台，采用 WebContainers 技术
 - **[Lovable](https://lovable.dev/)**，无代码 AI 应用构建器，通过自然语言生成全栈 Web 应用
-- **[Replit](https://replit.com/)**，AI 驱动的浏览器 IDE，具备 Agent 功能可通过自然语言描述构建应用
-- **[Jules](https://jules.google/)**，谷歌 AI 开发助手，自动化重复编程任务并生成拉取请求
 
 ## 企业和平台解决方案
 
 - **[Codex](https://openai.com/codex/)**，OpenAI 的 AI 编程模型系列，具备云端智能体和 CLI 工具
 - **[Devin](https://cognition.ai/)**，Cognition Labs 的自主 AI 软件工程师，用于复杂开发任务
+- **[Replit](https://replit.com/)**，AI 驱动的浏览器 IDE，具备 Agent 功能可通过自然语言描述构建应用
+- **[Jules](https://jules.google/)**，谷歌 AI 开发助手，自动化重复编程任务并生成拉取请求
+- **[Open SWE](https://github.com/langchain-ai/open-swe)**，基于 LangGraph 构建的开源云端自主编程智能体
 
 ## 专用工具
 

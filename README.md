@@ -42,13 +42,14 @@ English | [中文](README.zh-CN.md)
 - **[v0](https://v0.dev/)**, Vercel's AI UI generator converting descriptions to React code with shadcn/ui
 - **[Bolt.new](https://bolt.new/)**, StackBlitz's browser-based full-stack AI development platform with WebContainers
 - **[Lovable](https://lovable.dev/)**, No-code AI app builder generating full-stack web apps from natural language
-- **[Replit](https://replit.com/)**, AI-powered browser IDE with Agent for building apps from natural language descriptions
-- **[Jules](https://jules.google/)**, Google's AI-powered development assistant that automates repetitive coding tasks and generates pull requests
 
 ## Enterprise & Platform Solutions
 
 - **[Codex](https://openai.com/codex/)**, OpenAI's AI coding model series with cloud-based agents and CLI tools
 - **[Devin](https://cognition.ai/)**, Cognition Labs' autonomous AI software engineer for complex development tasks
+- **[Replit](https://replit.com/)**, AI-powered browser IDE with Agent for building apps from natural language descriptions
+- **[Jules](https://jules.google/)**, Google's AI-powered development assistant that automates repetitive coding tasks and generates pull requests
+- **[Open SWE](https://github.com/langchain-ai/open-swe)**, Open-source cloud-based autonomous coding agent built with LangGraph
 
 ## Specialized Tools
 
