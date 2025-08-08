@@ -27,6 +27,7 @@ English | [中文](README.zh-CN.md)
 - **[Codex](https://github.com/openai/codex)**, Lightweight coding agent that runs in your terminal
 - **[Crush](https://github.com/charmbracelet/crush)**, AI-powered terminal coding agent with multi-model support and LSP integration
 - **[Cursor CLI](https://cursor.com/cli)**, Command-line AI coding tool with advanced models and real-time agent guidance
+- **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**, Customizable AI-powered coding CLI with extensible tools and commands
 
 ## VS Code Extensions
 

@@ -27,6 +27,7 @@
 - **[Codex](https://github.com/openai/codex)**，在终端中运行的轻量级编程智能体
 - **[Crush](https://github.com/charmbracelet/crush)**，AI 驱动的终端编程智能体，支持多模型和 LSP 集成
 - **[Cursor CLI](https://cursor.com/cli)**，命令行 AI 编程工具，支持先进模型和实时智能体指导
+- **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**，可定制的 AI 编程 CLI 工具，具备可扩展工具和命令功能
 ## VS Code 扩展
 
 - **[Cline](https://cline.bot/)**，VS Code 自主 AI 智能体，具备文件编辑和网页浏览功能
