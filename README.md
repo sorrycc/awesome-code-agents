@@ -26,6 +26,7 @@ English | [中文](README.zh-CN.md)
 - **[Warp](https://www.warp.dev/)**, AI-enhanced terminal with natural language command processing
 - **[Codex](https://github.com/openai/codex)**, Lightweight coding agent that runs in your terminal
 - **[Crush](https://github.com/charmbracelet/crush)**, AI-powered terminal coding agent with multi-model support and LSP integration
+- **[Cursor CLI](https://cursor.com/cli)**, Command-line AI coding tool with advanced models and real-time agent guidance
 
 ## VS Code Extensions
 
