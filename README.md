@@ -26,9 +26,10 @@ English | [中文](README.zh-CN.md)
 - **[Warp](https://www.warp.dev/)**, AI-enhanced terminal with natural language command processing
 - **[Codex](https://github.com/openai/codex)**, Lightweight coding agent that runs in your terminal
 - **[Crush](https://github.com/charmbracelet/crush)**, AI-powered terminal coding agent with multi-model support and LSP integration
-- **[Cursor CLI](https://cursor.com/cli)**, Command-line AI coding tool with advanced models and real-time agent guidance
+- **[Cursor CLI](https://cursor.com/cli)**, Cursor's command-line AI agent for code writing, review, and modification with advanced models and real-time guidance
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**, Customizable AI-powered coding CLI with extensible tools and commands
 - **[Amp](https://ampcode.com/)**, Agentic coding tool for autonomous reasoning and comprehensive code editing
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)**, Command-line AI workflow tool optimized for Qwen3-Coder models with code understanding and automation
 
 ## VS Code Extensions
 

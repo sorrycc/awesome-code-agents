@@ -26,9 +26,11 @@
 - **[Warp](https://www.warp.dev/)**，AI 增强终端，支持自然语言命令处理
 - **[Codex](https://github.com/openai/codex)**，在终端中运行的轻量级编程智能体
 - **[Crush](https://github.com/charmbracelet/crush)**，AI 驱动的终端编程智能体，支持多模型和 LSP 集成
-- **[Cursor CLI](https://cursor.com/cli)**，命令行 AI 编程工具，支持先进模型和实时智能体指导
+- **[Cursor CLI](https://cursor.com/cli)**，Cursor 的命令行 AI 智能体，支持代码编写、审查和修改，具备先进模型和实时指导功能
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**，可定制的 AI 编程 CLI 工具，具备可扩展工具和命令功能
 - **[Amp](https://ampcode.com/)**，智能体编程工具，具备自主推理和全面代码编辑功能
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)**，针对 Qwen3-Coder 模型优化的命令行 AI 工作流工具，具备代码理解和自动化功能
+
 ## VS Code 扩展
 
 - **[Cline](https://cline.bot/)**，VS Code 自主 AI 智能体，具备文件编辑和网页浏览功能
