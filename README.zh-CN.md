@@ -1,13 +1,13 @@
 # awesome-code-agents
 
-精选的AI代码智能体、IDE和开发工具列表，通过人工智能提升编程生产力。
+精选的 AI 代码智能体、IDE 和开发工具列表，通过人工智能提升编程生产力。
 
 [English](README.md) | 中文
 
 ## AI增强型IDE和编辑器
 
 - **[Cursor](https://cursor.com/)**，基于 VS Code 的 AI 代码编辑器，具备智能自动完成和智能体编辑功能
-- **[Windsurf](https://windsurf.com/)**，Codeium 推出的 AI IDE，采用"Cascade Flow" AI 智能体技术
+- **[Windsurf](https://windsurf.com/)**，Codeium 推出的 AI IDE，采用 "Cascade Flow" AI 智能体技术
 - **[Kiro](https://kiro.dev/)**，AWS 实验性 AI IDE，采用规范驱动开发模式
 - **[CodeBuddy](https://www.codebuddy.com/)**，包含 VS Code 扩展和开发平台的 AI 编程工具
 - **[Trae](https://www.trae.ai/)**，字节跳动的 AI IDE，具备 Builder 模式自动项目生成功能
@@ -15,6 +15,7 @@
 - **[通义灵码](https://lingma.aliyun.com/)**，阿里巴巴的 AI 编程助手，提供 IDE 插件和独立 IDE
 - **[Augment Code](https://www.augmentcode.com/)**，面向大型企业代码库的专业 AI 平台，支持 20 万令牌上下文
 - **[Comate](https://comate.baidu.com/en)**，百度 AI 助手，支持 100+ 种语言，代码采纳率达 50%
+* **[Qoder](https://qoder.com/)**：AI 驱动的开发平台，能够理解代码库、自动化编码任务，并支持协作式智能代理工作流
 
 ## 终端AI智能体
 
@@ -33,6 +34,9 @@
 - **[CodeBuff](https://github.com/CodebuffAI/codebuff)**，多智能体 AI 编程助手，提供 CLI 和 SDK 进行精确代码库编辑
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**，开源 CLI 代码智能体，具备插件系统和多模型支持
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**，GitHub 的终端原生 AI 编程助手，具备代码库集成和智能体功能
+- **[Rovo Dev CLI](https://www.atlassian.com/software/rovo-dev)**：Atlassian 的终端原生 AI 助手，帮助开发者进行代码理解、生成、重构和测试，并与 Jira、Confluence、Bitbucket 工作流集成
+- **[CodeBuddy Code](https://www.codebuddy.ai/cli)**：腾讯云的终端原生 AI 编程助理，在命令行中通过自然语言驱动从编码、测试、调试到部署的全链路开发
+- **[Qoder CLI](https://qoder.com/cli)**：Qoder 的终端原生 AI 编程代理，具备全项目代码理解、上下文记忆，并通过 Quest Mode 执行自主任务
 
 ## VS Code 扩展
 
