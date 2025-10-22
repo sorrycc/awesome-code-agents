@@ -15,6 +15,7 @@ English | [中文](README.zh-CN.md)
 - **[通义灵码](https://lingma.aliyun.com/)**, Alibaba's AI coding assistant with IDE plugins and standalone IDE
 - **[Augment Code](https://www.augmentcode.com/)**, Professional AI platform for large-scale enterprise codebases with 200K context tokens
 - **[Comate](https://comate.baidu.com/en)**, Baidu's AI assistant supporting 100+ languages with 50% code adoption rate
+- **[Qoder](https://qoder.com/)**, AI-powered development platform that understands codebase, automates coding tasks, and supports collaborative agent workflows
 
 ## Terminal-Based AI Agents
 
@@ -33,6 +34,9 @@ English | [中文](README.zh-CN.md)
 - **[CodeBuff](https://github.com/CodebuffAI/codebuff)**, Multi-agent AI coding assistant with CLI and SDK for precise codebase editing
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
+- **[Rovo Dev CLI](https://www.atlassian.com/software/rovo-dev)**, Atlassian’s terminal-native AI agent that assists developers with code comprehension, generation, refactoring, testing and integrates with Jira/Confluence/Bitbucket workflows
+- **[CodeBuddy Code](https://www.codebuddy.ai/cli)**, Tencent Cloud’s terminal-native AI coding assistant, for code generation, debugging, and deployment
+- **[Qoder CLI](https://qoder.com/cli)**, Qoder's terminal-native AI coding agent with project-wide understanding, contextual memory, and autonomous task execution through Quest Mode
 
 ## VS Code Extensions
 
