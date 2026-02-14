@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[agentskill.sh](https://agentskill.sh)**, Directory of 44k+ skills for Claude Code, Cursor, Codex with two-layer security scanning and `/learn` installer
