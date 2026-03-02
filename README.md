@@ -61,3 +61,9 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+
+## API Gateway Services
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [SkillBoss](https://skillboss.co) | - | **Backed by OpenAI Startup Fund & Amazon**. Unified API for 100+ AI services with a single key. OpenAI-compatible endpoint supports GPT-5, Claude Opus 4.5, Gemini, video generation, and works with all AI coding agents. |
