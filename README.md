@@ -60,4 +60,5 @@ English | [中文](README.zh-CN.md)
 
 ## Specialized Tools
 
+- **[Stoneforge](https://stoneforge.ai)**, Open-source orchestration for AI coding agents with parallel execution, automatic dispatch, merge, and recovery
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
