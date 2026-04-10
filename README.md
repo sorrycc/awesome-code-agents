@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[amux](https://github.com/mixpeek/amux)**, Open-source agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, kanban board, and agent-to-agent REST API
