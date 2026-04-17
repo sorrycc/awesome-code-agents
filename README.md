@@ -57,6 +57,7 @@ English | [中文](README.zh-CN.md)
 - **[Replit](https://replit.com/)**, AI-powered browser IDE with Agent for building apps from natural language descriptions
 - **[Jules](https://jules.google/)**, Google's AI-powered development assistant that automates repetitive coding tasks and generates pull requests
 - **[Open SWE](https://github.com/langchain-ai/open-swe)**, Open-source cloud-based autonomous coding agent built with LangGraph
+- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)**, Self-hostable AI Agent Workforce Platform with remote AI workstations (AgentPods), multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration, and per-pod MCP servers. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode
 
 ## Specialized Tools
 
