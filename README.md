@@ -34,6 +34,7 @@ English | [中文](README.zh-CN.md)
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
 
+- [Octomind](https://github.com/muvon/octomind) - Open-source, model-agnostic AI agent runtime with community-built specialist agents (developer, medical, legal, DevOps), MCP support, and zero-config setup.
 ## VS Code Extensions
 
 - **[Cline](https://cline.bot/)**, Autonomous AI agent for VS Code with file editing and web browsing capabilities
