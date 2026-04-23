@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens)**, Windows tray app monitoring Claude Code and Codex usage

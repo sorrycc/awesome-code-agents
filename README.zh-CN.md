@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens)**，用于监控 Claude Code 和 Codex 用量的 Windows 托盘应用
