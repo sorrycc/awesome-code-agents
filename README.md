@@ -60,4 +60,5 @@ English | [中文](README.zh-CN.md)
 
 ## Specialized Tools
 
+- **[ControlKeel](https://github.com/aryaminus/controlkeel)**, governance/control plane for coding agents with validation, findings, approvals, budgets, and proof bundles across Claude Code, Codex CLI, OpenCode, Cursor, and other hosts
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
