@@ -60,4 +60,5 @@ English | [中文](README.zh-CN.md)
 
 ## Specialized Tools
 
+- **[AGENTS.md Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/)**, Free browser-based generator for creating repository AGENTS.md instruction files for coding agents
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
