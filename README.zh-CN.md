@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[AgentPlane](https://github.com/basilisk-labs/agentplane)**，Git 原生 CLI 工作流控制层，用于可审计的本地 AI 代码智能体流程
