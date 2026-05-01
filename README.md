@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[AgentPlane](https://github.com/basilisk-labs/agentplane)**, Git-native CLI workflow-control layer for auditable repo-local coding-agent work
