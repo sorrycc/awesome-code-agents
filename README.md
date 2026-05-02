@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)**, Local TUI observability for AI coding agent sessions

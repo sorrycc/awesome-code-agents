@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)**，本地 TUI 可观测工具，用于分析 AI 编程智能体会话
