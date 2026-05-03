@@ -34,6 +34,7 @@ English | [中文](README.zh-CN.md)
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
 
+- **[The Factory](https://github.com/akashgit/remote-factory)**, Self-evolving, stateful meta-harness for autonomous software development and research. Go from a plain-English idea to a running, continuously improving project, or turn any existing codebase into an autoresearch project in one command. Research mode wraps any metric into a full optimization loop. Agents evolve their own playbooks from outcomes.
 ## VS Code Extensions
 
 - **[Cline](https://cline.bot/)**, Autonomous AI agent for VS Code with file editing and web browsing capabilities
