@@ -33,6 +33,7 @@
 - **[CodeBuff](https://github.com/CodebuffAI/codebuff)**，多智能体 AI 编程助手，提供 CLI 和 SDK 进行精确代码库编辑
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**，开源 CLI 代码智能体，具备插件系统和多模型支持
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**，GitHub 的终端原生 AI 编程助手，具备代码库集成和智能体功能
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)**，开源 AI 编程编排器，通过计划驱动的生命周期和验证门控管理多个代码智能体
 
 ## VS Code 扩展
 
