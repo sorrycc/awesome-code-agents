@@ -43,6 +43,7 @@ English | [中文](README.zh-CN.md)
 - **[KiloCode](https://kilocode.ai/)**, AI assistant superset of Roo/Cline with Orchestrator Mode and error recovery
 - **[GitHub Copilot](https://github.com/features/copilot)**, Microsoft's widely-adopted AI pair programmer with autonomous agent capabilities
 - **[Cody](https://sourcegraph.com/cody)**, Sourcegraph's AI assistant with advanced codebase search and multi-LLM support
+- **[LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/)**, AI code audit and documentation extension for VS Code
 
 ## Web-Based Development Platforms
 

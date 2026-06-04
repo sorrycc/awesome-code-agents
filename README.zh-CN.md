@@ -43,6 +43,7 @@
 - **[KiloCode](https://kilocode.ai/)**，Roo/Cline 的 AI 助手超集，具备 Orchestrator 模式和错误恢复功能
 - **[GitHub Copilot](https://github.com/features/copilot)**，微软广泛使用的 AI 结对编程工具，具备自主智能体功能
 - **[Cody](https://sourcegraph.com/cody)**，Sourcegraph 的 AI 助手，具备高级代码库搜索和多 LLM 支持
+- **[LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/)**，用于 VS Code 的 AI 代码审计和文档生成扩展
 
 ## 基于 Web 的开发平台
 
