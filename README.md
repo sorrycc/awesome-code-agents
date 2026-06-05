@@ -33,6 +33,7 @@ English | [中文](README.zh-CN.md)
 - **[CodeBuff](https://github.com/CodebuffAI/codebuff)**, Multi-agent AI coding assistant with CLI and SDK for precise codebase editing
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
+- **[grite](https://github.com/neul-labs/grite)**, Git-backed issue tracker for AI coding agents with CRDT merging; events sync via `git push`/`fetch`, no server required
 
 ## VS Code Extensions
 
