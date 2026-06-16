@@ -33,6 +33,7 @@ English | [中文](README.zh-CN.md)
 - **[CodeBuff](https://github.com/CodebuffAI/codebuff)**, Multi-agent AI coding assistant with CLI and SDK for precise codebase editing
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
+- **[OpenClacky](https://openclacky.com)**, Token-efficient open-source AI agent with Skill extensions, IM integration, and BYOK multi-model support
 
 ## VS Code Extensions
 
