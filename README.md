@@ -49,6 +49,7 @@ English | [中文](README.zh-CN.md)
 - **[v0](https://v0.dev/)**, Vercel's AI UI generator converting descriptions to React code with shadcn/ui
 - **[Bolt.new](https://bolt.new/)**, StackBlitz's browser-based full-stack AI development platform with WebContainers
 - **[Lovable](https://lovable.dev/)**, No-code AI app builder generating full-stack web apps from natural language
+- **[Playcode](https://playcode.io/ai-website-builder)**, AI website and app builder for creating hosted web apps from natural-language prompts
 
 ## Enterprise & Platform Solutions
 
