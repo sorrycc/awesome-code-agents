@@ -60,4 +60,5 @@ English | [中文](README.zh-CN.md)
 
 ## Specialized Tools
 
+- **[MartinLoop](https://github.com/Keesan12/martin-loop)**, Open-source control layer for AI coding agents with budget caps, verifier gates, rollback evidence, and inspectable run receipts
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
