@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[zclean](https://github.com/TheStack-ai/zclean)**, Local CLI for cleaning AI coding runtime leftovers and workspace caches
