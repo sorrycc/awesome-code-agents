@@ -57,6 +57,7 @@ English | [中文](README.zh-CN.md)
 - **[Replit](https://replit.com/)**, AI-powered browser IDE with Agent for building apps from natural language descriptions
 - **[Jules](https://jules.google/)**, Google's AI-powered development assistant that automates repetitive coding tasks and generates pull requests
 - **[Open SWE](https://github.com/langchain-ai/open-swe)**, Open-source cloud-based autonomous coding agent built with LangGraph
+- **[5dive](https://github.com/5dive-ai/5dive)**, Self-hosted platform for running a company of AI coding agents (Claude Code, Codex, Grok and more) with cron scheduling, Telegram control, and a triage dashboard
 
 ## Specialized Tools
 
