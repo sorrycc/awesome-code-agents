@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[ai-agent-detect](https://github.com/agent-detect/ai-agent-detect)**，检测正在运行你的 CLI 工具或应用的 AI 编码智能体
