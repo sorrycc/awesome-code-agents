@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[ai-agent-detect](https://github.com/agent-detect/ai-agent-detect)**, detects which AI coding agent is running your CLI tool or app
