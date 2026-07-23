@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[fractal](https://github.com/plasma-ai/fractal)**，在每个节点的独立 Git 工作树中运行 Claude Code、Codex 等编程智能体，并支持递归任务委派

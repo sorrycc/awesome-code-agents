@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[fractal](https://github.com/plasma-ai/fractal)**, Runs Claude Code, Codex, and other agents in per-node Git worktrees with recursive delegation
