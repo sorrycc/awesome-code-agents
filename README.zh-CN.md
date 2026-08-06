@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[agents-cli](https://github.com/phnx-labs/agents-cli)**，从一个 CLI 安装并运行多个 AI 编程智能体（版本、技能、MCP、团队）
