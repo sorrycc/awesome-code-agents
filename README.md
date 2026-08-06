@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[agents-cli](https://github.com/phnx-labs/agents-cli)**, Install and run multiple AI coding agents from one CLI (versions, skills, MCP, teams)
