@@ -15,6 +15,7 @@ English | [中文](README.zh-CN.md)
 - **[通义灵码](https://lingma.aliyun.com/)**, Alibaba's AI coding assistant with IDE plugins and standalone IDE
 - **[Augment Code](https://www.augmentcode.com/)**, Professional AI platform for large-scale enterprise codebases with 200K context tokens
 - **[Comate](https://comate.baidu.com/en)**, Baidu's AI assistant supporting 100+ languages with 50% code adoption rate
+- **[BitFun](https://github.com/GCWing/BitFun)**, Open-source local AI workbench for planning, coding, testing, and reviewing repository changes
 
 ## Terminal-Based AI Agents
 
