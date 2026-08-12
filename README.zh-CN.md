@@ -15,6 +15,7 @@
 - **[通义灵码](https://lingma.aliyun.com/)**，阿里巴巴的 AI 编程助手，提供 IDE 插件和独立 IDE
 - **[Augment Code](https://www.augmentcode.com/)**，面向大型企业代码库的专业 AI 平台，支持 20 万令牌上下文
 - **[Comate](https://comate.baidu.com/en)**，百度 AI 助手，支持 100+ 种语言，代码采纳率达 50%
+- **[BitFun](https://github.com/GCWing/BitFun)**，开源本地 AI 工作台，支持规划、编程、测试与代码审查
 
 ## 终端AI智能体
 
