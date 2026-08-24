@@ -8,6 +8,7 @@ English | [中文](README.zh-CN.md)
 
 - **[Cursor](https://cursor.com/)**, AI-powered VS Code fork with intelligent autocomplete and agentic editing
 - **[Windsurf](https://windsurf.com/)**, AI-powered IDE from Codeium with "Cascade Flow" AI agents
+- **[Coworker](https://github.com/leonjackman/coworker)**, Local-first AI coding assistant desktop app. Multi-provider, MCP, skills marketplace. MIT licensed.
 - **[Kiro](https://kiro.dev/)**, AWS experimental agentic IDE using spec-driven development
 - **[CodeBuddy](https://www.codebuddy.com/)**, AI coding tools including VS Code extensions and development platforms
 - **[Trae](https://www.trae.ai/)**, ByteDance's AI IDE with Builder Mode for automated project generation
