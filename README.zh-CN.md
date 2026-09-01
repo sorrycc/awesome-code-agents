@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[AgentBridge](https://github.com/raysonmeng/agent-bridge)**，本地 CLI，让 Claude Code 与 Codex 同会话实时对等协作

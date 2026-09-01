@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[AgentBridge](https://github.com/raysonmeng/agent-bridge)**, Local CLI bridging Claude Code and Codex as live peers
