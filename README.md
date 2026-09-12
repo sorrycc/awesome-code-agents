@@ -34,6 +34,7 @@ English | [中文](README.zh-CN.md)
 - **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
 - **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open source review loop and verification platform with an amazing UI, handling isolated worktrees and automated verification gates
 ## VS Code Extensions
 
 - **[Cline](https://cline.bot/)**, Autonomous AI agent for VS Code with file editing and web browsing capabilities
