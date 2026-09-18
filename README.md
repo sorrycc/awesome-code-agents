@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[opencode-agent-memory](https://github.com/Ghilteras/opencode-agent-memory)**, Persistent, self-editable memory blocks and journal for the OpenCode AI coding agent

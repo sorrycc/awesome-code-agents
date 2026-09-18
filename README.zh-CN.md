@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[opencode-agent-memory](https://github.com/Ghilteras/opencode-agent-memory)**，OpenCode AI 编码智能体的持久化、可自编辑记忆块与追加日志
