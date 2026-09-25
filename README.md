@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[Grunz](https://grunzai.com)**, Desktop coding agent for macOS, Windows and Linux running abliterated open-weight models (Qwen, DeepSeek, GLM, Kimi) with MCP support
