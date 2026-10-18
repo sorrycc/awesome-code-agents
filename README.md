@@ -61,3 +61,5 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+
+- **[orke](https://orke.bomtobe.com/en/)**, Desktop workspace for Claude Code and Codex that unifies terminal, browser, and Git review

@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[orke](https://orke.bomtobe.com/en/)**，Claude Code 和 Codex 的桌面工作空间，整合终端、浏览器与 Git 变更审阅
