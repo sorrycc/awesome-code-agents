@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+- **[CodeInOven](https://codeinoven.com/)**，免费开源的 MIT 桌面工作区，将 Pi、Codex、Claude Code、OpenCode 等编程智能体置于从头脑风暴到独立审计的完整生命周期中

@@ -61,3 +61,4 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[CodeInOven](https://codeinoven.com/)**, Free MIT desktop workspace that runs Pi, Codex, Claude Code and OpenCode behind a reviewable lifecycle from brainstorm to audited diff
