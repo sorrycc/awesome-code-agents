@@ -61,3 +61,4 @@
 ## 专用工具
 
 - **[RepoPrompt](https://repoprompt.com/)**，macOS 原生应用，用于 AI 优化的文件管理和代码迭代
+  - **[Hyperion](https://github.com/ThalesNotTychus/Hyperion)**，Windows 原生多账号工作区，支持 Claude Code、Codex 与 Antigravity（`agy acp`）实时配额监控、429 自动故障转移及 Git worktree 并行竞技场

@@ -61,3 +61,6 @@ English | [中文](README.zh-CN.md)
 ## Specialized Tools
 
 - **[RepoPrompt](https://repoprompt.com/)**, macOS native app for AI-optimized file management and code iteration
+- **[Hyperion](https://github.com/ThalesNotTychus/Hyperion)**, Native Windows workspace for running multiple isolated Claude Code, Codex & Google Antigravity (`agy acp`) accounts with live 5h/7d quota meters, automatic 429 failover, and parallel Git worktree Arena
+
+
